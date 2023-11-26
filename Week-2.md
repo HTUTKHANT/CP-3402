@@ -5,12 +5,15 @@ This week, I set up the website the same as before by using Joomla. As the Jooml
 I watch 1 video successfully and I search many websites. 
 
 https://www.marloewatchcompany.com/blogs/news/the-10-reasons-why-you-should-own-a-watch?gad_source=1&gclid=CjwKCAiA04arBhAkEiwAuNOsIudsb6H-RF4GsEvJEDdkuHD2xWdX6o3isQsKRD9QgY2GgaYtn77pzxoCN4YQAvD_BwE
- The up one is to search for some information about the watch.
 
- https://www.thewatchpages.com/brands/
- The up one is to find the various brand of watch that is used nowadays.
+The up one is to search for some information about the watch.
 
- https://www.youtube.com/watch?v=h5VZwTLdgdM
+https://www.thewatchpages.com/brands/
+ 
+The up one is to find the various brand of watch that is used nowadays.
+
+https://www.youtube.com/watch?v=h5VZwTLdgdM
+ 
  The up one is about the video that I watch.
 
 # Estimated Hours
