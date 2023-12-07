@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=jl8F4WglM3I&t=536s
 
 # Estimated Hours
 
-About 10 hours, Because I don't know how to use WordPress. I usually use Xampp and sublime text for building websites and I have already done Joomla which is another CMS. I do a liitle in Assessment1 but it is not perfect one.
+About 10 hours, Because I don't know how to use WordPress. I usually use Xampp and sublime text for building websites and I have already done Joomla which is another CMS. I do a little in Assessment 1 but it is not a perfect one.
 
 # Content Insights
 
