@@ -12,7 +12,7 @@ This picture is about an already built database whose name is "week4_db" in phpM
 
 https://github.com/HTUTKHANT/CP-3402/blob/main/Building_Databse_In_Localhost_Of_Phymyadmin.png
 
-This picture is about the setup WordPress website in localhost and changing its name to "ESPERANZA".
+This picture concerns the setup WordPress website in localhost and changing its name to "ESPERANZA".
 
 https://github.com/HTUTKHANT/CP-3402/blob/main/Building_Wordpress_In_Localhost.png
 
@@ -20,23 +20,19 @@ I watched 1 video successfully.
 
 https://www.youtube.com/watch?v=XkKadPcPFT4
  
- The up one is about the video that I watched.
+ The first one is about the video that I watched.
 
 # Estimated Hours
 
-It take nearly 30min to complete it
+It takes nearly 30min to complete it
 
 # Content Insights
 
-This week's practical is to use a Website which can also be used as a CMS(Content Management System). So, I created a website that is nearly as same reason as my assessment-1 website but this time using WordPress.
-WordPress is my second time using it. So, I was unsatisfied and many errors. But I created a website that can be used by all of the people.
-I added some functions such as adding pictures and showing some incredible pictures. I use some slide functions and set up some more in other taps.
+This week's pratical is to install a WordPress website which we have to build more in next week. All I have to do is to follow the video show. So, there aren't any errors are difficulties.
+I already know how to use xampp, how to use localhost, how to build the database from localhost and I also know to to use WordPress; because of last week.
 
 
 # Career/Employability/Learning Insights
 
-I think I need more time. I added some connection with data bes but it is on the website. So, I can't add files here. 
-I do more self-learning. but the teacher didn't show the way. So, I satisfy some basic needs in this project.
-After finishing the practical, I will do reflections, add more detailed functions, and do iteration.
-I will look into some textbooks about the upcoming week, do better for the website, and update it again.
+It will be easier next week because I know ho to do most of the in later week.
 
