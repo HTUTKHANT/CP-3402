@@ -1,16 +1,30 @@
 # Learning and Activity Resources
 
-This week, I set up the new website about assessment 1 by using WordPress. As WordPress is my first time using it don't create perfectly in Assessment. So, I will do some minours in this week.
+This week, I set up a WordPress website in localhost. All the evidence to install a WordPress website in localhost has been submitted as 3 pictures.
 
-I watched 1 video successfully and researched my Assessment 1 website that I have done. 
+The pictures that I uploaded
 
-https://www.youtube.com/watch?v=jl8F4WglM3I&t=536s
+This picture is about already installed xampp and running xampp to use localhost on the computer.
+
+https://github.com/HTUTKHANT/CP-3402/blob/main/Installation_Xampp.png
+
+This picture is about an already built database whose name is "week4_db" in phpMyAdmin of localhost.
+
+https://github.com/HTUTKHANT/CP-3402/blob/main/Building_Databse_In_Localhost_Of_Phymyadmin.png
+
+This picture is about the setup WordPress website in localhost and changing its name to "ESPERANZA".
+
+https://github.com/HTUTKHANT/CP-3402/blob/main/Building_Wordpress_In_Localhost.png
+
+I watched 1 video successfully. 
+
+https://www.youtube.com/watch?v=XkKadPcPFT4
  
  The up one is about the video that I watched.
 
 # Estimated Hours
 
-About 10 hours, Because I don't know how to use WordPress. I usually use Xampp and sublime text for building websites and I have already done Joomla which is another CMS. I do a little in Assessment 1 but it is not a perfect one.
+It take nearly 30min to complete it
 
 # Content Insights
 
