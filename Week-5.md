@@ -1,10 +1,8 @@
 # Learning and Activity Resources
 
-This week, I set up the new website about assessment 1 by using WordPress. As WordPress is my first time using it don't create perfectly in Assessment. So, I will do some minours in this week.
+In this week, 
 
-I watched 1 video successfully and researched my Assessment 1 website that I have done. 
-
-https://www.youtube.com/watch?v=jl8F4WglM3I&t=536s
+https://www.youtube.com/watch?v=Wpc6FAsi7xI
  
  The up one is about the video that I watched.
 
