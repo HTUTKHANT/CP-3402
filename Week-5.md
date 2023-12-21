@@ -8,13 +8,11 @@ https://www.youtube.com/watch?v=Wpc6FAsi7xI
 
 # Estimated Hours
 
-About 10 hours, Because I don't know how to use WordPress. I usually use Xampp and sublime text for building websites and I have already done Joomla which is another CMS. I do a little in Assessment 1 but it is not a perfect one.
+It takes more than 3 hours to do. Cus i got more errors in CSS.
 
 # Content Insights
 
-This week's practical is to use a Website which can also be used as a CMS(Content Management System). So, I created a website that is nearly as same reason as my assessment-1 website but this time using WordPress.
-WordPress is my second time using it. So, I was unsatisfied and many errors. But I created a website that can be used by all of the people.
-I added some functions such as adding pictures and showing some incredible pictures. I use some slide functions and set up some more in other taps.
+This week pratical is to build child them and change the css file. So, that we can konw more about css style later. So, in this assessment i try to cahne some css which may be use in later. Cus color can change much but they cannot use for a long term but the padding, fount and some other such as radius can be use more in later. So, i change most of them in here.
 
 
 # Career/Employability/Learning Insights
