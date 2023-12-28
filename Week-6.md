@@ -17,4 +17,4 @@ This week one is to familiar with the use of Slack and how to control the team b
 
 # Career/Employability/Learning Insights
 
-In later weeks, we need to communicate more and break down the flow of the system. Then, we can perfectly create the perfect for assessment-2.
+In later weeks, we need to communicate more and break down the flow of the system. Then, we can perfectly create the perfect for assessment 2.
