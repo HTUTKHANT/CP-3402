@@ -9,11 +9,11 @@ https://www.youtube.com/watch?v=RRxQQxiM7AA
 
 # Estimated Hours
 
-Estimated more than 2 hours. It takes more than 1 hour to familiar with how to use Slack. 
+Estimated more than 3 hours.
 
 # Content Insights
 
-This week one is to familiar with the use of Slack and how to control the team by using it.
+This week pratical is to build the suitable website for the assessment. So, i learn how to write more about php code and functions from vedios and websites. Tehn, i change some of the codes which are shown by the leacturer and add more suitable one to make basic for this week.
 
 # Career/Employability/Learning Insights
 
