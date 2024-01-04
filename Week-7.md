@@ -1,7 +1,6 @@
 # Learning and Activity Resources
 
-This week, we have to create a group for assessment 2, which is a big CMS project. So, we create a team with four members.
-Then, we chose 1 platform for communication; which is Slack and it was recommended by the lecturer. Then we create team repository and team backlog places which we have to do in later weeks.
+This week, we have to built our own php website which is built by the wordpress and we nedd to show that we are know more about the php codes and function.
 
 https://www.youtube.com/watch?v=zxAJQv8teBo
  
