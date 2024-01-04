@@ -13,8 +13,8 @@ Estimated more than 3 hours.
 
 # Content Insights
 
-This week pratical is to build the suitable website for the assessment. So, i learn how to write more about php code and functions from vedios and websites. Tehn, i change some of the codes which are shown by the leacturer and add more suitable one to make basic for this week.
+This week's pratical is to build a suitable website for the assessment. So, I learn how to write more about php code and functions from videos and websites. Then, I changed some of the codes which are shown by the lecturer and added more suitable ones to make basic for this week. In this website, i complete all the min-test such as Echo, Decisions, Repetition, Functions and Include.
 
 # Career/Employability/Learning Insights
 
-In later weeks, we need to communicate more and break down the flow of the system. Then, we can perfectly create the perfect for assessment 2.
+In later weeks, we nedd to add more photos vedios and make a complete website for the assessment.
