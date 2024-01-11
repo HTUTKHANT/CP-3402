@@ -1,14 +1,11 @@
 # Learning and Activity Resources
 
-This week, we have to built our own php website which is built by the wordpress and we nedd to show that we are know more about the php codes and function.
+This week, we have to make reflection about what we have done and what we do in the assessment 2 until week 9.
 
-https://www.youtube.com/watch?v=zxAJQv8teBo
+https://www.youtube.com/watch?v=1mu2Ixt-iF8
  
-The above one is about the video that I watched to learn more about decision-making statements.
+The above one is about the video that I watched to learn more about how to make advatsing website.
 
- https://www.youtube.com/watch?v=cqsQ-Cndzgk
-
-  The above one is about the video that I watched to learn more about repetition statements.
 
 # Estimated Hours
 
