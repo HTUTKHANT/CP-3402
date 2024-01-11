@@ -20,4 +20,4 @@ Until this week-9, we do a basic formate for the website. First, we search throu
 
 # Career/Employability/Learning Insights
 
-In later weeks, we need to add more photos, videos and make a complete website for the assessment.
+In this week, we will completely develop the system to make successful complete system which can be satisfied the assessment-2.
