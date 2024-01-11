@@ -6,6 +6,9 @@ https://www.youtube.com/watch?v=1mu2Ixt-iF8
  
 The above one is about the video that I watched to learn more about how to make advatsing website.
 
+https://www.youtube.com/watch?v=YCd_L3usYC4
+
+The above one is about the video that I watched to learn more about how to promote website.
 
 # Estimated Hours
 
