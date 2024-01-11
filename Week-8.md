@@ -16,7 +16,7 @@ Estimated more than 3 hours.
 
 # Content Insights
 
-This week's pratical is to build a suitable website for the assessment. So, I learn how to write more about php code and functions from videos and websites. Then, I changed some of the codes which are shown by the lecturer and added more suitable ones to make basic for this week. On this website, I complete all the min-tesk such as Echo, Decisions, Repetition, Functions and Include.
+Until this week-9, we do a basic formate for the website. First, we search through the olders people presentation then. we collect all the neccessry data. Then, we draw the basic design in figma. Then, we create some iteration to make successful design. In next week, we will complete all the design process foe the assessment-2.
 
 # Career/Employability/Learning Insights
 
